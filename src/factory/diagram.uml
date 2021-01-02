@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="113.0">factory.Squre</node>
+    <node x="187.0" y="113.0">factory.Rectangular</node>
+    <node x="94.5" y="0.0">factory.Shape</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="factory.Rectangular" target="factory.Shape">
+      <point x="0.0" y="-31.5" />
+      <point x="272.5" y="88.0" />
+      <point x="219.75" y="88.0" />
+      <point x="41.75" y="31.5" />
+    </edge>
+    <edge source="factory.Squre" target="factory.Shape">
+      <point x="0.0" y="-31.5" />
+      <point x="83.5" y="88.0" />
+      <point x="136.25" y="88.0" />
+      <point x="-41.75" y="31.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="454.0" y="204.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
